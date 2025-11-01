@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/FIAP.Games.API/FIAP.Games.API.csproj" Id="2e2735b6-63a8-4c84-9f9e-414d75a840bc" />
+    <Project Path="src/FIAP.Games.MCPServer/FIAP.Games.MCPServer.csproj" Id="ef9de59d-a852-4776-8495-70ad5f76d69f" />
   </Folder>
 </Solution>

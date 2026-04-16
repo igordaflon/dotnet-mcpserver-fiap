@@ -1,5 +1,5 @@
 ﻿using FIAP.Games.MCPServer.Clients;
-using FiapGames.MCPServer.DTOs;
+using FIAP.Games.MCPServer.DTOs;
 using ModelContextProtocol.Server;
 using System.ComponentModel;
 using System.Text.Json;

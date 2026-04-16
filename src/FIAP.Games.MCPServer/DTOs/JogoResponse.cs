@@ -1,3 +1,3 @@
-﻿namespace FiapGames.MCPServer.DTOs;
+﻿namespace FIAP.Games.MCPServer.DTOs;
 
 public record JogoResponse(int Id, string Titulo, decimal Preco);
